@@ -1,5 +1,5 @@
 
-
+//creating a draft for git hub
 class Clock extends React.Component {
   constructor(props){
     super(props);
